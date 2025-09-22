@@ -28,8 +28,6 @@ Goal of Dashboard: To transform raw API-driven weather data into an intuitive, v
 
 Impact: Makes weather insights easily accessible, helping users stay informed and plan activities effectively.
 
-Insights Provided:
-
 7-day temperature forecast
 
 Rainfall probability
